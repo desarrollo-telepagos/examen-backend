@@ -7,6 +7,8 @@ Crear y listar equipos de hasta 3 pokemones, el equipo tiene que estar vinculado
 
 Crear, listar y detallar entrenadores.  El detalle del entrenador deberá poseer la lista de los equipos que lidera.
 
+Tratar de respetar las versiones dadas de PHP y Laravel
+
 # Info Adicional:
 
 PokeAPI (https://pokeapi.co/)
